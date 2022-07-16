@@ -1,0 +1,10 @@
+com/example/demo/error/ItemException.class
+com/example/demo/api/ApiItems.class
+com/example/demo/service/ITemServiceImpl.class
+com/example/demo/model/Response.class
+com/example/demo/repo/IItemRepo.class
+com/example/demo/controller/RedirectController.class
+com/example/demo/repo/ItemRepoImpl.class
+com/example/demo/service/IItemService.class
+com/example/demo/model/Body.class
+com/example/demo/CrudApplication.class

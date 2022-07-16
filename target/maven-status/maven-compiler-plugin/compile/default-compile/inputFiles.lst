@@ -1,0 +1,10 @@
+/home/camilo/trabajos/spring/api-mercado-libre/src/main/java/com/example/demo/service/ITemServiceImpl.java
+/home/camilo/trabajos/spring/api-mercado-libre/src/main/java/com/example/demo/repo/ItemRepoImpl.java
+/home/camilo/trabajos/spring/api-mercado-libre/src/main/java/com/example/demo/api/ApiItems.java
+/home/camilo/trabajos/spring/api-mercado-libre/src/main/java/com/example/demo/model/Response.java
+/home/camilo/trabajos/spring/api-mercado-libre/src/main/java/com/example/demo/CrudApplication.java
+/home/camilo/trabajos/spring/api-mercado-libre/src/main/java/com/example/demo/controller/RedirectController.java
+/home/camilo/trabajos/spring/api-mercado-libre/src/main/java/com/example/demo/model/Body.java
+/home/camilo/trabajos/spring/api-mercado-libre/src/main/java/com/example/demo/service/IItemService.java
+/home/camilo/trabajos/spring/api-mercado-libre/src/main/java/com/example/demo/error/ItemException.java
+/home/camilo/trabajos/spring/api-mercado-libre/src/main/java/com/example/demo/repo/IItemRepo.java
